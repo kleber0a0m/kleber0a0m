@@ -26,5 +26,5 @@ Não deixe de conferir:
 ## Estatísticas GitHub
 <div>  <a href="https://github.com/kleber0a0m">  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleber0a0m&layout=compact&langs_count=7&theme=dracula"/>  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kleber0a0m&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  </div>
 
-### Contatos: 
+## Contatos: 
 <div>  <a href="https://www.youtube.com/channel/UCSufaUwwWC9yI7G_z48K8iA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>  <a href="https://www.linkedin.com/in/kleber-albino-moreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://kleberalbinomoreira.com.br/" target="_blank"><img src="https://img.shields.io/badge/-Portif%C3%B3lio-C34343?style=for-the-badge&logo=firefox&logoColor=white" target="_blank"></a>  </div>
