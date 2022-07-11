@@ -1,6 +1,6 @@
 
 # Olá eu sou Kléber👋
-![Snake animation](https://github.com/kleber0a0m/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/kleber0a0m/kleber0a0m/blob/output/github-contribution-grid-snake.svg)
 
 
 Sou graduando em **Sistemas de Informação** e formado em **Técnico em informática**.
