@@ -1,5 +1,5 @@
 
-# Olá eu sou Kléber👋
+# Olá, eu sou Kléber👋
 ![Snake animation](https://github.com/kleber0a0m/kleber0a0m/blob/output/github-contribution-grid-snake.svg)
 
 
