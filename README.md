@@ -6,7 +6,7 @@
 
 
 
-Sou graduando em **Sistemas de Informação** e formado em **Técnico em informática**.
+Sou **Bacharel em Sistemas de Informação** e **Técnico em informática**.
 
 Não deixe de conferir:
 
